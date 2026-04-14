@@ -8,7 +8,7 @@
 Sentivault is a production-ready **NLP Inference Service** designed for real-time sentiment analysis and operational system monitoring. Unlike standard AI scripts, Sentivault features a decoupled architecture that separates the processing engine from the administrative monitoring dashboard.
 
 ## 🚀 Live Demo
-**Access the Service Monitor:** 
+**Access the Service Monitor:** https://sentivault-nlp-monitor.onrender.com
 ---
 
 ## ✨ Key Developer Features
